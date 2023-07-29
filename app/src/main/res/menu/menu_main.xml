@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_lane_closure_list"
+        android:title="Lane Closure List"
+       />
+    <item
+        android:id="@+id/navigation_select_lane_closure"
+        android:title="Select Lane Closure"
+        />
+</menu>
